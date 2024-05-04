@@ -268,7 +268,7 @@ footer{
     }
 
     a.menu-link{
-        font-size: 66%;
+        font-size: 55%;
     }
 
     .page-name > h4{
@@ -283,7 +283,7 @@ footer{
     }
 
     .square-grid{
-        grid-template-columns:  70vh;
+        grid-template-columns:  35vh;
         grid-template-rows: repeat(3, 270px);
         justify-content: center;
     }
@@ -305,6 +305,4 @@ footer{
     .cartel  p, a{
         font-size: small;
     }
-
 }
-
